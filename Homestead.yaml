@@ -7,12 +7,13 @@ keys:
     - ~/.ssh/id_rsa
 folders:
     -
-        map: 'D:\homestead\lastu\code'
+#        map: 'D:\homestead\lastu\code'
+        map: 'G:\CoderWorshop\lastu_20180301\code'
         to: /home/vagrant/code
 sites:
     -
         map: homestead.test
-        to: /home/vagrant/code/lastu/public
+        to: /home/vagrant/code/lastu_20180301/public
 databases:
     - homestead
 name: lastu

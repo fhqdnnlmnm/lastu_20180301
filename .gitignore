@@ -1,0 +1,12 @@
+# homestead忽略的文件
+/.idea
+/.vagrant/
+# code中忽略的文件
+/code/node_modules
+/code/public/hot
+/code/public/storage
+/code/storage/*.key
+/code/vendor
+/code/npm-debug.log
+/code/yarn-error.log
+/code/.env
