@@ -1,12 +1,14 @@
-# homestead忽略的文件
+﻿# homestead忽略的文件
 /.idea
 /.vagrant/
 # code中忽略的文件
-/code/node_modules
-/code/public/hot
-/code/public/storage
-/code/storage/*.key
-/code/vendor
-/code/npm-debug.log
-/code/yarn-error.log
-/code/.env
+/code/lastu_20180301/node_modules
+/code/lastu_20180301/public/hot
+/code/lastu_20180301/public/storage
+/code/lastu_20180301/storage/*.key
+/code/lastu_20180301/vendor
+/code/lastu_20180301/npm-debug.log
+/code/lastu_20180301/yarn-error.log
+/code/lastu_20180301/.env
+/code/lastu_20180301/package-lock.json
+Homestead.yaml

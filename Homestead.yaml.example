@@ -7,8 +7,8 @@ keys:
     - ~/.ssh/id_rsa
 folders:
     -
-#        map: 'D:\homestead\lastu\code'
-        map: 'G:\CoderWorshop\lastu_20180301\code'
+        map: 'D:\homestead\lastu\code'
+#        map: 'G:\CoderWorshop\lastu_20180301\code'
         to: /home/vagrant/code
 sites:
     -
