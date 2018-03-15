@@ -1,6 +1,7 @@
 ﻿# homestead忽略的文件
 /.idea
-/.vagrant/
+/.vagrant
+/vendor
 # code中忽略的文件
 /code/lastu_20180301/node_modules
 /code/lastu_20180301/public/hot
